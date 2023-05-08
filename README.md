@@ -74,7 +74,7 @@ Replace `script_name.sh` with the name of the script you want to run.
 
 ## Ubuntu Server Version
 
-The scripts in this repository have been tested on Ubuntu 20.04 LTS (Focal Fossa). However, they should work on other versions of Ubuntu with minimal modifications. Please ensure that you test and modify the scripts as necessary for your specific version of Ubuntu.
+The scripts in this repository have been tested on Ubuntu 20.04 LTS (Focal Fossa). However, they should work on other versions of Ubuntu with minimal modifications.
 
 [⬆️ Back to top](#ubuntu-server-inspection-scripts-for-cis-controls)
 
