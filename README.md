@@ -1,6 +1,6 @@
 # Ubuntu Server Inspection Scripts for CIS Controls
 
-This repository contains a collection of scripts to help you inspect your Ubuntu server based on the CIS Critical Security Controls. These scripts are designed to provide a starting point for implementing and assessing various aspects of your server's security configuration.
+This repository contains a collection of scripts to inspect an Ubuntu server based on the CIS Critical Security Controls. These scripts are designed to provide a starting point for implementing and assessing various aspects of your server's security configuration.
 
 ## Table of Contents
 
@@ -45,7 +45,7 @@ chmod +x script_name.sh
 
 ## Scripts and Inspected Controls
 
-The following scripts are included in this repository to help you inspect various aspects of your Ubuntu server based on the CIS Critical Security Controls. For each script, the corresponding control that it inspects is mentioned in parentheses.
+The following scripts are included in this repository to inspect various aspects of an Ubuntu server based on the CIS Critical Security Controls. For each script, the corresponding control that it inspects is mentioned in parentheses.
 
 1. `installed_packages.sh`: Lists installed software packages (Control 2: Inventory and Control of Software Assets)
 2. `sudo_users.sh`: Lists users with sudo privileges (Control 4: Controlled Use of Administrative Privileges)
