@@ -10,6 +10,7 @@ This repository contains a collection of scripts to inspect an Ubuntu server bas
 - [Usage](#usage)
 - [Ubuntu Server Version](#ubuntu-server-version)
 - [References](#references)
+- [License](#license)
 - [Contact](#contact)
 
 ## Prerequisites
@@ -83,6 +84,12 @@ The scripts in this repository have been tested on Ubuntu 20.04 LTS (Focal Fossa
 - [CIS Critical Security Controls](https://www.cisecurity.org/controls/cis-controls-list/)
 - [Ubuntu Documentation](https://help.ubuntu.com/)
 - [UFW Documentation](https://help.ubuntu.com/community/UFW)
+
+[⬆️ Back to top](#ubuntu-server-inspection-scripts-for-cis-controls)
+
+## License
+
+This project is licensed under the terms of the MIT license. See the [LICENSE](License.txt) file for license rights and limitations.
 
 [⬆️ Back to top](#ubuntu-server-inspection-scripts-for-cis-controls)
 
