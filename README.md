@@ -1,6 +1,6 @@
 # Ubuntu Server Inspection Scripts for CIS Controls
 
-This repository contains a collection of scripts to inspect an Ubuntu server based on the CIS Critical Security Controls. These scripts are designed to provide a starting point for implementing and assessing various aspects of your server's security configuration.
+This repository contains a collection of scripts to inspect an Ubuntu server based on the CIS Critical Security Controls. These scripts are designed to provide a starting point for implementing and assessing various aspects of the server's security configuration.
 
 ## Table of Contents
 
